@@ -1,2 +1,11 @@
-# ICT-Gold-Pro
-Professional ICT Strategy for TradingView Pine Script v6
+# ICT Gold Pro
+
+Professional ICT / Smart Money Concepts Strategy
+
+Target
+
+- Pine Script v6
+- XAUUSD M5
+- Strategy Tester
+- Non Repaint
+- Professional Risk Management
